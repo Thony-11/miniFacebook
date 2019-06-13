@@ -1,0 +1,27 @@
+
+#content{
+    margin-top: -76px;
+    width: 600px;
+    height: 270px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(219, 216, 216);
+}
+
+#footer{
+    margin-top: 124px;
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+	background-color: rgb(255, 255, 255);	
+}
+input{
+    margin-right: 155px;
+    width: 510px;
+}
+
